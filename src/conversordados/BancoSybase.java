@@ -1,5 +1,5 @@
 package conversordados;
-
+//
 public class BancoSybase 
 {
     //public BancoSybase() { }
