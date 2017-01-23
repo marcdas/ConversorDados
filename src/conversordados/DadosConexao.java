@@ -1,6 +1,6 @@
 package conversordados;
 public class DadosConexao {
-//
+
 	private String usuario;
 	private String senha;
 	private int tipoBanco;

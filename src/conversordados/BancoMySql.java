@@ -1,5 +1,4 @@
 package conversordados;
-//
 public class BancoMySql {
 
 	private final String strConexaoMySql = "jdbc:mysql://[servidor]:[porta]/information_schema?zeroDateTimeBehavior=convertToNull";

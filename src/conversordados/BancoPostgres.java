@@ -1,5 +1,4 @@
 package conversordados;
-//
 public class BancoPostgres {
 
 	private final String strConexaoPost    = "jdbc:postgresql://[servidor]:[porta]/[servico]";
